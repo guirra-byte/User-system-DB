@@ -1,0 +1,7 @@
+[] Recuperar Senha com Front-End 
+[] Envio de Email
+[] Somente User type admin podem : 
+  [] Listar todos os Users 
+  [] Tornar um user Admin
+  [] Enviar Email
+    [] Selecionar para quais Users enviar o Email
