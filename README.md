@@ -18,10 +18,13 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Validação de Usuário
 - [x] Listar todos os Usuários
 - [x] Atualizar dados do Usuário
+- [x] Conexão de Emails:
+    - [x]  MailTrap como Email SandBox Service
 - [ ] Deletar Usuário
 
 ## Feito Com: ⚒
 ![Node.Js](https://img.shields.io/badge/Node.js-52b788?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 [![TypeScript](https://img.shields.io/badge/TypeScript-00b4d8?style=for-the-badge&logo=typescript&logoColor=white")](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+![Sequelize](https://img.shields.io/badge/Sequelize-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
